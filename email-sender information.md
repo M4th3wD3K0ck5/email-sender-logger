@@ -1,0 +1,16 @@
+# email-sender-logger
+# Send emails and log them with encryption using python.  
+Input your email  
+Input your email password  
+input sender email   
+input messgae  
+confirm information  
+input a subject  
+send
+
+# Encryption
+To view to encrypted log please make use of the decrypt app.  
+It will ask  for the path(location of the file), if you arnt sure just right click on the file and go to properties.  
+Once you have the path copy the decryption key (key.txt) and paste it into the prompt.   
+You can now view the log
+
